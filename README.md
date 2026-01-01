@@ -5,7 +5,7 @@ Build a small Security Operations Center (SOC) lab to practice detecting attacks
 
 ## 🧰 Tools Used
 - VirtualBox
-- Windows 10
+- Windows 11
 - Ubuntu Server
 - Splunk Free
 
